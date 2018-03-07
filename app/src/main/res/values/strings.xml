@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlbertHomework</string>
+    <string name="invite_friends_text">Invite your friends to Albert and you\'ll both get a bonus in your Albert Savings.</string>
+    <string name="invite_friends_button_text">INVITE FRIENDS</string>
+    <string name="albert_share_alert_text">Congrats, you shared Albert!</string>
+    <string name="albert_default_share_text">Join Albert and we’ll both get a bonus in our Albert Savings. Use my link: https://meetalbert.com</string>
+    <string name="no_phone_number_error_text">This contact does not have any phone numbers. Please choose another contact!</string>
+    <string name="contact_read_permission_request_denied_text">Without reading your contacts you can not invite others to Albert. Permission required!</string>
+    <string name="must_select_contact_to_invite">You must select a contact to invite.</string>
+    <string name="ok">OK</string>
+</resources>
